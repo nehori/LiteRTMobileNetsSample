@@ -9,6 +9,10 @@ This Android application demonstrates image classification using pre-trained Mob
     *   MobileNetV3 (quantized TFLite model)
 *   Loads labels in English and Japanese.
 
+## Result Example
+
+![App Screenshot](result.webp)
+
 ## Project Structure
 
 *   **Models & Labels:** Located in `app/src/main/assets/`
@@ -43,5 +47,6 @@ Or directly download:
 ## License
 
 This is free and unencumbered software released into the public domain. See [LICENSE](LICENSE).
+
 
 
