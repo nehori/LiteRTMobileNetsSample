@@ -11,7 +11,7 @@ This Android application demonstrates image classification using pre-trained Mob
 
 ## Result Example
 
-![App Screenshot](result.webp)
+<img src="result.webp" alt="App Screenshot" width="300"/>
 
 ## Project Structure
 
@@ -47,6 +47,7 @@ Or directly download:
 ## License
 
 This is free and unencumbered software released into the public domain. See [LICENSE](LICENSE).
+
 
 
 
