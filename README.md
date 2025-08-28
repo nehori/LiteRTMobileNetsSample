@@ -35,11 +35,13 @@ This Android application demonstrates image classification using pre-trained Mob
 
 ## Download Pre-built APK
 
-A pre-built APK is available in the `releases/` folder of this repository:
+You can download the latest pre-built APK from the **[Releases page](https://github.com/nehori/LiteRTMobileNetsSample/releases)**.
 
-*   [LiteRTMobileNetsSample-v1.0.apk](./releases/LiteRTMobileNetsSample-v1.0.apk)
+Or directly download:
+*   [LiteRTMobileNetsSample-v1.0.apk](https://github.com/nehori/LiteRTMobileNetsSample/releases/download/v1.0/LiteRTMobileNetsSample-v1.0.apk)
 
 ## License
 
 This is free and unencumbered software released into the public domain. See [LICENSE](LICENSE).
+
 
